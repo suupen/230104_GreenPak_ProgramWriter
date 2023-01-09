@@ -12,3 +12,6 @@ mbedの実行ファイル(binファイル)はmbedBinFileフォルダにありま
 GreenPAK(SLG46826V-DIP)のHEXファイルはgreenPakSampleフォルダにあります。
 これらのファイルがあれば、mbedプログラムのコンパイルや、GreenPAKのデータ作成をすることなく動作確認することができます。
 
+## 開発環境
+keil studio cloud を使っています。
+
